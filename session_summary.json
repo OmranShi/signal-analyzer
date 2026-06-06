@@ -1,0 +1,9 @@
+{
+  "duration_seconds": 170,
+  "total_samples": 335,
+  "total_anomalies": 269,
+  "avg_cpu_percent": 18.17,
+  "avg_voltage": 3.263,
+  "session_start": "2026-06-06 21:11:44.493490",
+  "session_end": "2026-06-06 21:14:34.729851"
+}
