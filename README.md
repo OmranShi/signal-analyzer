@@ -14,3 +14,5 @@ Technical Stack
 • Libraries: psutil (system metrics), colorama (terminal UI), json, logging
 • Concepts: Real-time data acquisition, signal simulation, anomaly detection, structured logging
 Signal Parameters
+## Dashboard Screenshot
+![Signal Analyzer Dashboard](signal_report.png)
